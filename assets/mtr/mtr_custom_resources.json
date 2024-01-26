@@ -1,0 +1,20 @@
+{
+	"custom_trains": {
+		"my_custom_train": {
+			"name": "My Custom SP1900 Train",
+			"color": "FEC5E5",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:custom_directory/custom_sp1900.png"
+		}
+	},
+	"custom_signs": {
+		"my_custom_sign": {
+			"texture_id": "mtr:custom_directory/custom_sign.png",
+			"flip_texture": false,
+			"custom_text": "你好|Hello",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		}
+	}
+}
